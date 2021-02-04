@@ -1,6 +1,6 @@
 const module = (function() {
     const privateInfo = 'Anton Burchak';
-    const privateSalary = 850;
+    const privateSalary = 99999;
 
     const getInfo = () => {
         console.log(this);
